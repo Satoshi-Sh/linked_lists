@@ -111,13 +111,13 @@ for (let i=0;i<10;i++){
 linked = makeList()
 
 // insert test
-linked.insertAt(6,6)
+//linked.insertAt(5,5)
 //console.log(linked.fullList)
 
 // removeAt test
 
-linked.removeAt(5);
-console.log(linked.toString())
+//linked.removeAt(5);
+//console.log(linked.toString())
 
 
 // pop test 
